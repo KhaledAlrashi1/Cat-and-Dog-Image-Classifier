@@ -1,4 +1,4 @@
-# Cats vs. Dogs Image Classification
+# Cat and Dog Image Classifier
 ![Pets image](images/pets.png)
 
 ## Project Overview
