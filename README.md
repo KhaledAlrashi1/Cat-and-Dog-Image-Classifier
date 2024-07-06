@@ -1,7 +1,7 @@
 # Cat and Dog Image Classifier
 ![Pets image](images/pets.png)
 
-## Project Overview
+## Overview
 In this project, a convolutional neural network (CNN) was developed to classify images into two categories: Cats and Dogs. Using TensorFlow and Keras, the project involved preprocessing the Cats vs. Dogs dataset, constructing a CNN model, and processing the data through training and validation stages. Key evaluations included the model's accuracy rate and loss value, a detailed analysis using a confusion matrix, an ROC curve, and misclassified images, which were examined for error analysis.
 
 ## Dataset:
